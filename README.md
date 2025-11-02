@@ -1,10 +1,10 @@
 # Polymarket Scanner
 
-A real-time web application for monitoring large bets and trading activity on Polymarket prediction markets.
+A real-time web application for monitoring large bets and trading activity on polymarket prediction markets.
 
 ## About
 
-This project displays live data from Polymarket, showing significant bets across various prediction markets including politics, sports, and current events.
+This project displays live data from polymarket, showing significant bets across various prediction markets including politics, sports, and current events.
 
 ## Features
 
