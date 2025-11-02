@@ -4,9 +4,9 @@ A real-time web application for monitoring large bets and trading activity on Po
 
 ## About
 
-This project displays live data from [Polymarket]([https://example.com](https://polymarket.com/), showing significant bets across various prediction markets including politics, sports, and current events. 
+This project displays live data from [Polymarket]([https://polymarket.com/]), showing significant bets across various prediction markets including politics, sports, and current events. 
 
-[Polymarket User Guide]([https://example.com](https://docs.polymarket.com/polymarket-learn/get-started/what-is-polymarket)
+[Polymarket User Guide]([https://docs.polymarket.com/polymarket-learn/get-started/what-is-polymarket])
 
 
 
